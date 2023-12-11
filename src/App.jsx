@@ -10,6 +10,7 @@ import MainHomePage from './components/MainHomePage'
 import Categories from './components/Categories/Categories'
 import Create from './components/Create'
 
+import './index.css'
 
 function App() {
 
